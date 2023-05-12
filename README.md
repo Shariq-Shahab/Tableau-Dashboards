@@ -1,4 +1,5 @@
 # Tableau-Dashboards
+Overview: ![Alt text](Tableau-Dashboards/Covid19/Dashboard.png "Covid Dashboard")
 [Tableau Public Profile](https://public.tableau.com/app/profile/shariq.shahab4270)
 
 # Dashboard 1: Covid Dashboard
